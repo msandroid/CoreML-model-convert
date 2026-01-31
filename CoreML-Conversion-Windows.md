@@ -165,10 +165,9 @@ For now, use WSL (Option 1) for tokenizer-only as well.
 
 | Model | Script | Doc |
 |-------|--------|-----|
-| Qwen3-TTS VoiceDesign | `Scripts/convert_qwen3_tts_voicedesign_to_coreml.py` | Qwen3-TTS-VoiceDesign-CoreML-Conversion.md |
-| VibeVoice 1.5B | `Scripts/convert_vibevoice_1_5b_to_coreml.py` | VibeVoice-1.5B-CoreML-Conversion.md |
+| Qwen3-TTS VoiceDesign | `Scripts/convert_qwen3_tts_voicedesign_to_coreml.py` | [Qwen3-TTS-VoiceDesign-CoreML-Conversion.md](Docs/Qwen3-TTS-VoiceDesign-CoreML-Conversion.md) |
 
-The same WSL/Docker/remote workflow applies to all conversion scripts. These scripts and model guides are from projects that use CoreML conversion (e.g. TranslateBlue).
+The same WSL/Docker/remote workflow applies to all conversion scripts.
 
 ---
 
